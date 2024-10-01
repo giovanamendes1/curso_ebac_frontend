@@ -1,0 +1,21 @@
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 24px;
+    background-color:aquamarine;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 2px rgb(178, 178, 178);
+}
+
+time {
+    display: block;
+}
+
+.post {
+    margin-bottom: 16px;
+}
+
+button {
+    margin-top: 16px;
+}
